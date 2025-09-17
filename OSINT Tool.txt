@@ -1,0 +1,18 @@
+Seeker Tool in Github : https://github.com/thewhiteh4t/seeker
+r4ven Tool in Github  : https://github.com/spyboy-productions/r4ven.git
+hound Tool in Github  : https://github.com/techchipnet/hound
+sherlock Kali linux Tools      : sudo apt install sherlock
+Mr.Holmes Tool in Github : https://github.com/Lucksi/Mr.Holmes
+Data Briesed           :  https://haveibeenpwned.com/
+Data Briesed           :  https://intelx.io/
+OSINT Framework        :  https://osintframework.com/
+Instragrame OSINT      :  https://inflact.com/instagram-downloader/video/
+Instragrame OSINT      :  https://github.com/Datalux/Osintgram
+Instragrame/Facebook/Tiktok/YouTube User Id Find :  https://views4you.com/tools/instagram-user-id-finder/
+Instragrame/Facebook/Tiktok/YouTube User Id Find :  https://skweezer.net/find-instagram-user-id
+Website Domain Information   :  https://www.whois.com/
+Website Domain Information   :  https://centralops.net/co/
+Website Domain Information   :  https://builtwith.com/
+Website Domain Information   :  https://web.archive.org/
+Website Domain Information   :  https://dnsdumpster.com/
+Dark Web Search              :  https://ahmia.fi/
